@@ -1,4 +1,4 @@
-DIRS = apue.3e elf fork KernelModule libseccomp Network problem StackProtector sysprogram test useafterfree
+DIRS = apue.3e elf fork libseccomp Network problem StackProtector sysprogram test useafterfree
 # ldd3-examples : failed to compile
 
 all:
